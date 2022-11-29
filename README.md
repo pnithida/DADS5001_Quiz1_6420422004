@@ -3,6 +3,8 @@
 ## Develop a NoSQL-data management app (pymongo + mongodb)
 
 By: Nithida Phookriangkrai (student id: 6420422004)
+Link to video presentation: 
+
 
 GUI app for Clothing inventory management using Tkinter. The app has CRUD functions along with visualization
 
@@ -36,4 +38,4 @@ User can delete the unwanted row by click on any box in the row and press "Delet
 
 User can also view a bar graph represent the amount of each product by pressing "Graph" button.
 
-The latest data will show up. Each bar will show ID_Item_Colour_Size on the x-axis while the y-axis will show the quantity of each product
+The latest data will show up. Each bar will show ID_Item_Colour_Size on the x-axis while the y-axis will show the quantity of each product.
