@@ -3,7 +3,9 @@
 ## Develop a NoSQL-data management app (pymongo + mongodb)
 
 By: Nithida Phookriangkrai (student id: 6420422004)
+
 Link to video presentation: 
+
 
 
 GUI app for Clothing inventory management using Tkinter. The app has CRUD functions along with visualization
