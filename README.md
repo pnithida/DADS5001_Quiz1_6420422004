@@ -12,6 +12,8 @@ In MongoDB, the document contains 1) ID 2) Item 3) Colour 4) Size and 5) Quantit
 
 <img width="1428" alt="Screenshot 2565-11-30 at 00 04 11" src="https://user-images.githubusercontent.com/56344603/204594887-10e1464c-81a1-485d-b84b-6f473979c5fc.png">
 
+## Starting with GUI app
+
 Note that the Stock ID is automatically generated. So User can CREATE data by key product name in the white box for "Item".
 
 Next, colour and size can be selected from the drop-down list. Then, user has to key quantity of each product and press "Save" button.
