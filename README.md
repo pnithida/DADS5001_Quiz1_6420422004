@@ -24,7 +24,7 @@ Next, colour and size can be selected from the drop-down list. Then, user has to
 
 <img width="1105" alt="save1" src="https://user-images.githubusercontent.com/56344603/204694977-2220f9f1-fefb-4ade-aa33-4ada7cdae938.png">
 
-The app will READ by find all from the collections and show in the table
+The app will READ by find all from the collections and show in the table. The lastest data that user just press save will show in the lowest row
 
 <img width="1108" alt="save2" src="https://user-images.githubusercontent.com/56344603/204695071-fa888379-4838-4a71-ad63-5e9a2edd0c0c.png">
 
