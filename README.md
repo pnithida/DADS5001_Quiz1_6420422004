@@ -30,17 +30,21 @@ The app will READ by find all from the collections and show in the table. The la
 
 If user want to UPDATE any item, user can click on any box in the row and change the data befor pressing "Update" button.
 
+Below figure shows that user will change quantity from '9' to '10'. Now, it shows quantity '9' for Item ID 10.
+
 <img width="1108" alt="update1" src="https://user-images.githubusercontent.com/56344603/204695105-9e990953-9c4b-42ac-a35f-8abd4c01da10.png">
 
-The data will be changed and app will RETREIVE the latest collections and show in the table
+After user press update, the data will be changed to '10' and app will RETREIVE the latest collections and show in the table
 
 <img width="1109" alt="update2" src="https://user-images.githubusercontent.com/56344603/204695124-368c44cc-01b9-405c-8b77-850873099fd3.png">
 
 User can delete the unwanted row by click on any box in the row and press "Delete" button. 
 
+Below figue shows that user will delete Item ID 5.
+
 <img width="1109" alt="delete1" src="https://user-images.githubusercontent.com/56344603/204695159-62f4f5c8-4ad0-4694-8e54-430e2e313f4f.png">
 
-The delete row will be gone.
+After user press, row of Item ID 5 is gone.
 
 <img width="1102" alt="delete2" src="https://user-images.githubusercontent.com/56344603/204695177-8e8f77e3-75b2-46a6-8109-90b05d2e390e.png">
 
