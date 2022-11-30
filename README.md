@@ -6,7 +6,7 @@ By: Nithida Phookriangkrai (student id: 6420422004)
 
 Link to video presentation: https://www.youtube.com/watch?v=jqnxt_XXIKI
 
-
+Link to source code: https://github.com/pnithida/DADS5001_Quiz1_6420422004/blob/main/6420422004_Quiz1_StockManagement.ipynb
 
 GUI app for Clothing inventory management using Tkinter. The app has CRUD functions along with visualization
 
