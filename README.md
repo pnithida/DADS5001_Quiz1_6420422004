@@ -14,7 +14,7 @@ GUI app for Clothing inventory management using Tkinter. The app has CRUD functi
 
 In MongoDB, the document contains 1) ID 2) Item 3) Colour 4) Size and 5) Quantity 
 
-<img width="1428" alt="Screenshot 2565-11-30 at 00 04 11" src="https://user-images.githubusercontent.com/56344603/204594887-10e1464c-81a1-485d-b84b-6f473979c5fc.png">
+<img width="1424" alt="Screenshot 2565-11-30 at 09 58 40" src="https://user-images.githubusercontent.com/56344603/204697111-d3fc2c15-ed97-490b-8fde-26d46a5fe722.png">
 
 ## Starting with GUI app
 
